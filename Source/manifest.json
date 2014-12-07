@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt Plus",
-	"version": "1.2",
-	"description": "Replaces the text 'the cloud' with 'my butt', as well as 'cloud' with 'butt' in certain contexts.",
+	"name": "Pray To Fart",
+	"version": "1.0",
+	"description": "Replaces the text 'pray' with 'fart', as well as 'pray' with 'fart' in certain contexts.",
 	"content_scripts": 
 	[
 		{
